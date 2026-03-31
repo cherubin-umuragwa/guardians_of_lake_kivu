@@ -1,6 +1,6 @@
 "use client";
 
-import { CloudRain, BookOpen, Trash2, Zap, Fish, ExternalLink } from "lucide-react";
+import { CloudRain, BookOpen, Trash2, Zap, Fish } from "lucide-react";
 import { useI18n } from "@/lib/i18n/context";
 import CitationBlock from "@/components/ui/CitationBlock";
 

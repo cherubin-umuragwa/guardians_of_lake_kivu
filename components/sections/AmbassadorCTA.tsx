@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { GraduationCap, CheckCircle2, User, School, Phone } from "lucide-react";
+import { GraduationCap, CheckCircle2, User, School } from "lucide-react";
 import { useI18n } from "@/lib/i18n/context";
 import FormField from "@/components/ui/FormField";
 

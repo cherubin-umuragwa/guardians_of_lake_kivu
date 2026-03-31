@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Recycle, CheckCircle2, Hammer, MapPin, Package } from "lucide-react";
+import { Recycle, CheckCircle2, Hammer, Package } from "lucide-react";
 import { useI18n } from "@/lib/i18n/context";
 import FormField from "@/components/ui/FormField";
 
